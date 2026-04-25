@@ -1,0 +1,8 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated
+*.pyc
+__pycache__/
+arch_diagram_preview.png
